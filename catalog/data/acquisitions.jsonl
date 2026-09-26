@@ -1,0 +1,50 @@
+{"accession":"BK-FIC-0101","collection":"  Fiction  ","received_on":" 2024-03-05 ","cost":42.5,"state":" cataloged ","edition":2}
+{"accession":"BK-FIC-0101","collection":"Fiction","received_on":"2024-03-05","cost":30,"state":"cataloged","edition":1}
+{"accession":"BK-FIC-0101","collection":"Fiction","received_on":"2024-03-05","cost":99,"state":"withdrawn","edition":7}
+
+   
+{"accession":"BK-FIC-0102","collection":"Fiction","received_on":"2024-03-06","cost":18,"state":"cataloged","edition":1}
+{"accession":"BK-FIC-0103","collection":"Fiction","received_on":"2024-01-09","cost":7.25,"state":"in repair","edition":3}
+{"accession":"BK-FIC-0104","collection":"Fiction","received_on":"2024-02-29","cost":15,"state":"pending review","edition":1}
+{"accession":"BK-FIC-0105","collection":"Fiction","received_on":"2023-02-29","cost":15,"state":"pending review","edition":1}
+{"accession":"BK-FIC-0106","collection":"Fiction","received_on":"2024-04-31","cost":11,"state":"shelved","edition":2}
+{"accession":"BK-fic-0107","collection":"Fiction","received_on":"2024-05-02","cost":5,"state":"shelved","edition":1}
+{"accession":"BK-FIC-0108","collection":"Fiction","received_on":"2024-05-02","cost":5,"state":"shelved","edition":1,"note":"extra"}
+{"accession":"BK-FIC-0109","collection":"Fiction","received_on":"2024-05-03","cost":"5","state":"shelved","edition":1}
+{"accession":"BK-FIC-0110","collection":"Fiction","received_on":"2024-05-03","cost":true,"state":"shelved","edition":1}
+{"accession":"BK-FIC-0111","collection":"Fiction","received_on":"2024-05-03","cost":6,"state":"shelved","edition":0}
+{"accession":"BK-FIC-0112","collection":"Fiction","received_on":"2024-05-03","cost":6,"state":"shelved","edition":true}
+{"accession":"BK-FIC-0113","collection":"Fiction","received_on":"2024-05-03","cost":6,"state":"shelved","edition":2.5}
+{"accession":"BK-FIC-0114","collection":"Fiction","received_on":"2024-05-04","cost":6,"state":"shelved","edition":2.0}
+{"accession":"BK-FIC-0114","collection":"Fiction","received_on":"2024-05-04","cost":6,"state":"in repair","edition":2}
+{"accession":"BK-FIC-0115","collection":"Fiction","received_on":"2024-05-05","cost":-0.0,"state":"pending review","edition":1}
+{"accession":"BK-FIC-0116","collection":"Fiction","received_on":"2024-05-06","cost":1.5e3,"state":"cataloged","edition":1}
+{"accession":"BK-FIC-0117","collection":"Fiction","received_on":"2024-05-07","cost":0.0001,"state":"shelved","edition":4}
+{"accession":"BK-MAP-0201","collection":"Rare Maps","received_on":"2023-11-11","cost":1200,"state":"cataloged","edition":4}
+{"accession":"BK-MAP-0202","collection":"Rare Maps","received_on":"2023-11-12","cost":875.5,"state":"cataloged","edition":1}
+{"accession":"BK-MAP-0203","collection":"Rare Maps","received_on":"2023-11-13","cost":640,"state":"in repair","edition":2}
+{"accession":"BK-MAP-0204","collection":"Rare Maps","received_on":"2023-11-14","cost":990,"state":"withdrawn","edition":5}
+{"accession":"BK-MAP-0205","collection":"  Rare Maps  ","received_on":"2023-11-15","cost":1500,"state":"cataloged","edition":1}
+{"accession":"BK-MAP-0206","collection":"Rare Maps","received_on":"2023-11-16","cost":875.5,"state":"shelved","edition":1}
+{"accession":"BK-MAP-0207","collection":"Rare Maps","received_on":"2023-11-11","cost":640,"state":"cataloged","edition":2}
+{"accession":"BK-PER-0301","collection":"Periodicals","received_on":"2024-06-01","cost":12.75,"state":"shelved","edition":12}
+{"accession":"BK-PER-0302","collection":"Periodicals","received_on":"2024-06-01","cost":12.75,"state":"shelved","edition":9}
+{"accession":"BK-PER-0303","collection":"Periodicals","received_on":"2024-06-02","cost":12.75,"state":"cataloged","edition":1}
+{"accession":"BK-PER-0304","collection":" Periodicals ","received_on":"2024-06-03","cost":4.5,"state":"in repair","edition":2}
+{"accession":"BK-REF-0401","collection":"Reference","received_on":"2024-07-07","cost":0,"state":"pending review","edition":1}
+{"accession":"BK-REF-0402","collection":"Reference","received_on":"2024-07-08","cost":0.0,"state":"pending review","edition":1}
+{"accession":"BK-REF-0403","collection":"Reference","received_on":"2024-07-09","cost":3.5,"state":"cataloged","edition":6}
+{"accession":"BK-REF-0404","collection":"Reference","received_on":"2024-07-10","cost":2,"state":"withdrawn ","edition":3}
+{"accession":"BK-REF-0405","collection":"Reference"
+["BK-REF-0406","Reference"]
+42
+"just a string"
+{"accession":"BK-REF-0407","collection":"   ","received_on":"2024-07-11","cost":1,"state":"cataloged","edition":1}
+{"accession":"BK-REF-0408","collection":"Reference","received_on":"2024-07-11","cost":1,"state":"   ","edition":1}
+{"accession":"BK-REF-0409","collection":"Reference","received_on":"2024-7-11","cost":1,"state":"cataloged","edition":1}
+{"accession":"BK-REF-0410","collection":"Reference","received_on":"2024-07-11 ","cost":1,"state":"cataloged","edition":1}
+{"accession":"BK-REF-0411","collection":"Reference","received_on":"2024-07-12","cost":null,"state":"cataloged","edition":1}
+{"accession":" BK-REF-0412","collection":"Reference","received_on":"2024-07-12","cost":2,"state":"cataloged","edition":1}
+{"accession":"BK-REF-0413","collection":"Reference","received_on":"2024-07-12","cost":2,"state":"cataloged","edition":1}
+{"accession": "BK-REF-0414", "collection": "Reference", "received_on": "2024-07-13", "cost": 1, "state": "in repair"}
+{"accession":"BK-REF-0415","collection":"Reference","received_on":"2024-07-13","cost":1,"state":"Withdrawn","edition":1}
